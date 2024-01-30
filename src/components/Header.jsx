@@ -5,7 +5,7 @@ export default function Header() {
     <header className='header'>
       <div>
         <h1>
-          Ejercicio 10
+          Ejercicio 9
         </h1>
       </div>
       <div>
